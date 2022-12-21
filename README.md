@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Isaiah-Dakin
+- 👀 I’m interested in : coding!
+- 🌱 I’m currently studying : computer science at UNBF.
+- 📫 How to reach me : IsaiahDak16@gmail.com
