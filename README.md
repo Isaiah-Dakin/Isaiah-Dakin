@@ -1,2 +1,5 @@
-Computer science student studing at the UNB fredericton campus.
-Learning stuff for fun!
+Student studing computer science at the UNB fredericton campus.
+Learning game dev for fun!
+
+My primary cooprative project:
+*https://github.com/NYounggg/dungeon_game*
