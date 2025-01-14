@@ -6,5 +6,4 @@ Game dev with [Godot](https://godotengine.org/) & [friends](https://github.com/N
 [ULTRADUNGEON](https://github.com/NYounggg/dungeon_game)
 </br>
 
-**Email:** IsaiahDak16@gmail.com </br>
-**Phone:** (506)470-1032
+**Email:** IsaiahDak16@gmail.com  or idakin@unb.ca </br>
