@@ -1,7 +1,7 @@
-##**BCs Student @ UNB Fredericton.**
+**BCs Student @ UNB Fredericton.**
 Game dev with [Godot](https://godotengine.org/) & [friends](https://github.com/NYounggg) for fun!
 
-####**My primary cooprative project:**
+**My primary cooprative project:**
 [ULTRADUNGEON](https://github.com/NYounggg/dungeon_game)
 
 **Email:** IsaiahDak16@gmail.com
