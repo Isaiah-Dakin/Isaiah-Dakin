@@ -1,4 +1,4 @@
-**BCs Student @ UNB Fredericton.**
+**BCs Student @ UNB Fredericton.** </br>
 Game dev with [Godot](https://godotengine.org/) & [friends](https://github.com/NYounggg) for fun!
 </br>
 
